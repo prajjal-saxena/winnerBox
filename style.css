@@ -52,3 +52,12 @@ footer{
 .footer-ab p{
     margin: 0px!important;
 }
+@media(max-width: 600px){
+    .footer-al {
+     
+        flex-direction: column;
+    }
+    .second-al ul{
+        padding: 0px;
+    }
+}
